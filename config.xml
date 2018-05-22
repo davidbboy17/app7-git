@@ -5,7 +5,7 @@ xmlns:gap = "http://phonegap.com/ns/1.0"
 id = "com.phonegap.app7"
 version = "1.0.0">
 	
-<name> app7 Deslizar hacia la isquierda y a la derecha </name>
+<name> app7 Deslizar hacia la izquierda y a la derecha </name>
 	
 <description>
 Aplicacion que realiza el swipe o deslizamiento en el dispositivo
